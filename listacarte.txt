@@ -1,0 +1,344 @@
+Abomination	Rare	Neutral	Minion	General	5	4	4	Taunt. Deathrattle: deal 2 damage to all characters
+Abomination	Rare	Neutral	Minion	General	5	4	4	Taunt. Deathrattle: Deal 2 damage to ALL characters.
+Abusive Sergeant	Common	Neutral	Minion	General	1	2	1	Battlecry: Give a minion 2 Attack this turn.
+Abusive Sergeant	Common	Neutral	Minion	General	1	2	1	Battlecry: Give a minion +2 Attack this turn.
+Acolyte of Pain	Common	Neutral	Minion	General	3	1	3	Whenever this minion takes damage, draw a card.
+Acolyte of Pain	Common	Neutral	Minion	General	3	1	3	Whenever this minion takes damage, draw a card.
+Adrenaline Rush	Epic	Neutral	Spell	General	1			Draw a card. Combo: Draw 2 cards instead.
+Al'Akir the Windlord	Legendary	Shaman	Minion	General	8	3	5	Windfury, Charge, Divine Shield, Taunt.
+Alarm-o-Bot	Rare	Neutral	Minion	Mech	3	0	3	At the start of your turn swap this minion with a random one in your hand
+Alarm-o-Bot	Rare	Neutral	Minion	General	3	0	3	At the start of your turn, swap this minion with a random one in your hand.
+Aldor Peacekeeper	Rare	Paladin	Minion	General	3	3	3	Battlecry: Change an enemy minion's attack to 1.
+Aldor Peacekeeper	Rare	Paladin	Minion	General	3	3	3	Battlecry: Change an enemy minion's Attack to 1.
+Alexstrasza	Legendary	Neutral	Minion	Dragon	9	8	8	Battlecry: Set a hero's remaining Health to 15.
+Alexstrasza	Legendary	Neutral	Minion	Dragon	9	8	8	Battlecry: Set a hero's remaining Health to 15.
+Amani Berserker	Common	Neutral	Minion	General	2	2	3	Enrage: 3 attack
+Amani Berserker	Common	Neutral	Minion	General	2	2	3	Enrage: +3 Attack
+Ancestral Spirit	Rare	Shaman	Spell	General	2			Choose a minion. When that minion is destroyed, return it to the battlefield.
+Ancient Brewmaster	Common	Neutral	Minion	General	4	5	4	Battlecry: Return a friendly minion from the battlefield to your hand.
+Ancient Mage	Rare	Neutral	Minion	General	4	2	5	Battlecry: Give adjacent minions Spell Damage +1.
+Ancient of Lore	Epic	Druid	Minion	General	7	5	5	Choose One - Draw 2 cards; or Restore 5 Health.
+Ancient of War	Epic	Druid	Minion	General	7	5	5	Choose One - Taunt and +5 Health; or +5 Attack.
+Ancient Secrets	Common	Druid	Spell	General	0			Restore 5 Health.
+Ancient Teachings	Common	Druid	Spell	General	0			Draw 2 cards.
+Ancient Watcher	Rare	Neutral	Minion	General	2	4	5	Can't Attack.
+Angry Chicken	Rare	Neutral	Minion	Beast	1	1	1	Enrage: +5 Attack.
+Animal Companion	Free	Hunter	Spell	General	3			Summon a random Beast Companion.
+Arathi Weaponsmith	Common	Warrior	Minion	General	4	3	3	Battlecry: Equip a 2/2 weapon.
+Arcane Golem	Rare	Neutral	Minion	General	3	4	2	Charge. Battlecry: Give your opponent a Mana Crystal.
+Archmage Antonidas	Legendary	Mage	Minion	General	7	5	7	Whenever you cast a spell, put a 'Fireball' spell into your hand.
+Argent Commander	Rare	Neutral	Minion	General	6	4	2	Charge, Divine Shield
+Argent Protector	Common	Paladin	Minion	General	2	2	2	Battlecry: Give a friendly minion Divine Shield.
+Argent Squire	Common	Neutral	Minion	General	1	1	1	Divine Shield
+Armorsmith	Rare	Warrior	Minion	General	2	1	4	Whenever a friendly minion takes damage, gain 1 Armor.
+Ashbringer	Legendary	Paladin	Weapon	General	5	5	3	
+Auchenai Soulpriest	Rare	Priest	Minion	General	4	3	5	Your cards and powers that restore Health now deal damage instead.
+Avenging Wrath	Epic	Paladin	Spell	General	6			Deal 8 damage randomly split among enemy characters.
+Azure Drake	Rare	Neutral	Minion	Dragon	5	4	4	Spell Damage 1. Battlecry: Draw a card.
+Baine Bloodhoof	Legendary	Neutral	Minion	General	4	4	5	
+Bananas	None	Neutral	Spell	General	1			This minion has +1/+1.
+Bane of Doom	Epic	Warlock	Spell	General	5			Deal 2 damage to a character. If that kills it, summon a random Demon.
+Baron Geddon	Legendary	Neutral	Minion	General	7	7	5	At the end of your turn, deal 2 damage to ALL other characters.
+Barrel	Common	Neutral	Minion	General	0	0	2	Deathrattle: Is something in this barrel?
+Barrel Toss	Common	Neutral	Spell	General	1			Deal 2 damage.
+Battle Axe	None	Warrior	Weapon	General	1	2	2	
+Battle Rage	Common	Warrior	Spell	General	2			Draw a card for each damaged friendly character.
+Bear Form	Common	Druid	Spell	General	0			+2 Health and Taunt.
+Bestial Wrath	Epic	Hunter	Spell	General	1			Give a Beast +2 Attack and Immune this turn.
+Betrayal	Common	Rogue	Spell	General	2			An enemy minion deals its damage to the minions next to it.
+Big Game Hunter	Epic	Neutral	Minion	General	3	4	2	Battlecry: Destroy a minion with an Attack of 7 or more.
+Bite	Rare	Druid	Spell	General	4			Give your hero +4 Attack this turn and 4 Armor.
+Blade Flurry	Rare	Rogue	Spell	General	2			Destroy your weapon and deal its damage to all enemies.
+Blessed Champion	Rare	Paladin	Spell	General	5			Double a minion's Attack.
+Blessing of Wisdom	Common	Paladin	Spell	General	1			Choose a minion. Whenever it attacks, draw a card.
+Blizzard	Rare	Mage	Spell	General	6			Deal 2 damage to all enemy minions and Freeze them.
+Blood Fury	Common	Warlock	Weapon	General	3	3	8	
+Blood Imp	Common	Warlock	Minion	Demon	1	0	1	Stealth. At the end of your turn, give another random friendly minion +1 Health.
+Blood Knight	Epic	Neutral	Minion	General	3	3	3	Battlecry: All minions lose Divine Shield. Gain +3/+3 for each Shield lost.
+Bloodmage Thalnos	Legendary	Neutral	Minion	General	2	1	1	Spell Damage +1. Deathrattle: Draw a card.
+Bloodsail Corsair	Rare	Neutral	Minion	Pirate	1	1	2	Battlecry: Remove 1 Durability from your opponent's weapon.
+Bloodsail Raider	Common	Neutral	Minion	Pirate	2	2	3	Battlecry: Gain Attack equal to the Attack of your weapon.
+Boar	Common	Neutral	Minion	Beast	1	1	1	
+Boar	Common	Neutral	Minion	Beast	1	1	1	
+Brawl	Epic	Warrior	Spell	General	5			Destroy all minions except one. (chosen randomly)
+Brewmaster	Common	Neutral	Minion	General	4	4	4	
+Cabal Shadow Priest	Epic	Priest	Minion	General	6	4	5	Battlecry: Take control of an enemy minion that has 2 or less Attack.
+Cairne Bloodhoof	Legendary	Neutral	Minion	General	6	4	5	Deathrattle: Summon a 4/5 Baine Bloodhoof.
+Captain Greenskin	Legendary	Neutral	Minion	Pirate	5	5	4	Battlecry: Give your weapon +1/+1.
+Cenarius	Legendary	Druid	Minion	General	9	5	8	Choose One - Give your other minions +2/+2; or Summon two 2/2 Treants with Taunt.
+Chaos Bolt	Common	Warlock	Spell	General	2			Deal 2 damage to a minion. If the target is a Demon, give it +2/+2 instead.
+Chicken	None	Neutral	Minion	Beast	0	1	1	
+Circle of Healing	Common	Priest	Spell	General	0			Restore 4 Health to ALL minions.
+Cold Blood	Common	Rogue	Spell	General	1			Give a minion +2 Attack. Combo: +4 Attack instead.
+Coldlight Oracle	Rare	Neutral	Minion	Murloc	3	2	2	Battlecry: Each player draws 2 cards.
+Coldlight Seer	Rare	Neutral	Minion	Murloc	3	2	3	Battlecry: Give ALL other Murlocs +2 Health.
+Commanding Shout	Rare	Warrior	Spell	General	2			Your minions can't be reduced below 1 Health this turn.
+Conceal	Common	Rogue	Spell	General	1			Give your minions Stealth until your next turn.
+Cone of Cold	Common	Mage	Spell	General	4			Freeze a minion and the minions next to it, and deal 1 damage to them.
+Counterspell	Rare	Mage	Spell	General	3			Secret: When your opponent casts a spell, Counter it.
+Crazed Alchemist	Rare	Neutral	Minion	General	2	2	2	Battlecry: Swap the Attack and Health of a minion.
+Crazed Hunter	Common	Neutral	Minion	General	1	1	1	
+Crazy Monkey	Common	Neutral	Minion	General	1	1	2	Battlecry: Throw Bananas.
+Cruel Taskmaster	Common	Warrior	Minion	General	2	2	2	Battlecry: Deal 1 damage to a minion and give it +2 Attack.
+Cult Master	Common	Neutral	Minion	General	4	4	2	Whenever one of your other minions dies, draw a card.
+Damaged Golem	Common	Neutral	Minion	General	1	2	1	
+Dark Iron Dwarf	Common	Neutral	Minion	General	4	4	4	Battlecry: Give a minion +2 Attack this turn.
+Deadly Shot	Common	Hunter	Spell	General	3			Destroy a random enemy minion.
+Deathwing	Legendary	Neutral	Minion	Dragon	10	12	12	Battlecry: Destroy all other minions and discard your hand.
+Defender	Common	Paladin	Minion	General	1	2	1	
+Defender of Argus	Rare	Neutral	Minion	General	4	2	3	Battlecry: Give adjacent minions +1/+1 and Taunt.
+Defias Bandit	Common	Rogue	Minion	General	1	2	1	
+Defias Ringleader	Common	Rogue	Minion	General	2	2	2	Combo: Summon a 2/1 Defias Bandit.
+Demolisher	Rare	Neutral	Minion	General	3	1	4	At the start of your turn, deal 2 damage to a random enemy.
+Demonfire	Common	Warlock	Spell	General	2			Deal 2 damage to a minion. If it's a friendly Demon give it +2/+2 instead.
+Devilsaur	Common	Neutral	Minion	Beast	5	5	5	
+Dire Wolf Alpha	Common	Neutral	Minion	Beast	2	2	2	Adjacent minions have +1 Attack.
+Dispel	Common	Druid	Spell	General	0			Silence a minion.
+Divine Favor	Rare	Paladin	Spell	General	3			Draw cards until you have as many in hand as your opponent.
+Doomguard	Rare	Warlock	Minion	Demon	5	5	7	Charge. Battlecry: Discard two random cards.
+Doomhammer	Epic	Shaman	Weapon	General	5	2	8	Windfury, Overload: (2)
+Doomsayer	Epic	Neutral	Minion	General	2	0	7	At the start of your turn, destroy ALL minions.
+Dread Corsair	Common	Neutral	Minion	Pirate	4	3	3	Taunt. Costs (1) less per Attack of your weapon.
+Druid of the Claw	Common	Druid	Minion	General	5	4	4	Choose One - Charge; or +2 Health and Taunt.
+Dual Warglaives	Common	Neutral	Weapon	General	6	4	2	
+Dust Devil	Common	Shaman	Minion	General	1	3	1	Windfury. Overload: (2)
+Eaglehorn Bow	Rare	Hunter	Weapon	General	3	3	2	Whenever a Secret is revealed, gain +1 Durability.
+Earth Elemental	Epic	Shaman	Minion	General	5	7	8	Taunt. Overload: (3)
+Earth Shock	Common	Shaman	Spell	General	1			Silence a minion, then deal 1 damage to it.
+Earthen Ring Farseer	Common	Neutral	Minion	General	3	3	3	Battlecry: Restore 3 Health
+Edwin VanCleef	Legendary	Rogue	Minion	General	3	2	2	Combo: Gain +2/+2 for each card played earlier this turn.
+Emboldener 3000	Common	Neutral	Minion	Mech	1	0	4	At the end of your turn, give a random minion 1/ 1.
+Emboldener 3000	Common	Neutral	Minion	General	1	0	4	At the end of your turn, give a random minion +1/+1.
+Emerald Drake	Dream	Neutral	Minion	Dragon	4	7	6	
+Emperor Cobra	Rare	Neutral	Minion	Beast	3	2	3	Destroy any minion damaged by this minion.
+Equality	Rare	Paladin	Spell	General	2			Change the Health of ALL minions to 1.
+Ethereal Arcanist	Rare	Mage	Minion	General	4	3	3	If you control a Secret at the end of your turn, gain +2/+2.
+Eviscerate	Common	Rogue	Spell	General	2			Deal 2 damage. Combo: Deal 4 damage instead.
+Explosive Shot	Rare	Hunter	Spell	General	5			Deal 5 damage to a minion and 2 damage to adjacent ones.
+Explosive Trap	Common	Hunter	Spell	General	2			Secret: When your hero is attacked, deal 2 damage to all enemies.
+Eye for an Eye	Common	Paladin	Spell	General	1			Secret: When your hero takes damage, deal that much damage to the enemy hero.
+Faceless Manipulator	Epic	Neutral	Minion	General	5	3	3	Battlecry: Choose a minion and become a copy of it.
+Faerie Dragon	Common	Neutral	Minion	Dragon	2	3	2	Can't be targeted by Spells or Hero Powers.
+Far Sight	Epic	Shaman	Spell	General	3			Draw a card. That card costs (3) less.
+Felguard	Rare	Warlock	Minion	Demon	3	3	5	Taunt. Battlecry: Destroy one of your Mana Crystals.
+Fen Creeper	Common	Neutral	Minion	General	5	3	6	Taunt
+Feral Spirit	Rare	Shaman	Spell	General	3			Summon two 2/3 Spirit Wolves with Taunt. Overload: (2)
+Finkle Einhorn	Legendary	Neutral	Minion	General	2	3	3	
+Flame Burst	Common	Neutral	Spell	General	3			Shoot 5 missiles at random enemies for 1 damage each.
+Flame Imp	Common	Warlock	Minion	Demon	1	3	2	Battlecry: Deal 3 damage to your hero.
+Flame of Azzinoth	Common	Neutral	Minion	General	1	2	1	
+Flare	Rare	Hunter	Spell	General	1			All minions lose Stealth. Destroy all enemy Secrets. Draw a card.
+Flesheating Ghoul	Common	Neutral	Minion		3	2	3	Whenever a minion dies, gain +1 Attack.
+Force of Nature	Epic	Druid	Spell	General	6			Summon three 2/2 Treants with Charge that die at the end of the turn.
+Forked Lightning	Common	Shaman	Spell	General	1			Deal 2 damage to 2 random enemy minions. Overload: (2)
+Freezing Trap	Common	Hunter	Spell	General	2			Secret: When an enemy minion attacks, return it to its owner's hand and it costs (2) more.
+Frog	Common	Neutral	Minion	Beast	0	0	1	Taunt
+Frog	Free	Neutral	Minion	Beast	0	0	1	Taunt
+Frost Elemental	Common	Neutral	Minion	General	6	5	5	Battlecry: Freeze a character.
+Frothing Berserker	Rare	Warrior	Minion	General	3	2	4	Whenever a minion takes damage, gain +1 Attack.
+Gadgetzan Auctioneer	Rare	Neutral	Minion	General	5	4	4	Whenever you cast a spell, draw a card.
+Gladiator's Longbow	Epic	Hunter	Weapon	General	7	5	2	Your hero is Immune while attacking.
+Gnoll	Common	Neutral	Minion	General	1	1	1	
+Gorehowl	Epic	Warrior	Weapon	General	7	7	1	Attacking a minion costs 1 Attack instead of 1 Durability.
+Greater Heal	Rare	Priest	Spell	General	2			Restore 2 Health to a character for each card in your opponent's hand.
+Grommash Hellscream	Legendary	Warrior	Minion	General	8	4	9	Charge. Engrage: +6 Attack.
+Gruul	Legendary	Neutral	Minion	General	8	7	7	At the end of each turn, gain +1/+1.
+Harrison Jones	Legendary	Neutral	Minion	General	5	5	4	Battlecry: Destroy your opponent weapon and draw cards equal to its durability
+Harvest Golem	Common	Neutral	Minion	General	3	2	3	Deathrattle: Summon a 2/1 Damaged Golem
+Headcrack	Rare	Rogue	Spell	General	3			Deal 2 damage to the enemy hero. Combo: Return this card to your hand next turn.
+Hidden Gnome	Common	Neutral	Minion	General	2	1	3	
+Hogger	Legendary	Neutral	Minion	General	6	4	4	At the end of your turn, Summon a 2/2 Gnoll with Taunt
+Hogger SMASH!	Common	Neutral	Spell	General				Deal 4 damage.
+Holy Fire	Rare	Priest	Spell	General	6			Deal 5 damage. Restore 5 Health to your hero.
+Holy Nova	Free	Priest	Spell	General	5			Deal 2 damage to all enemies. Restore 2 health to all friendly characters.
+Holy Wrath	Rare	Paladin	Spell	General	5			Draw a card and deal damage equal to its cost.
+Homing Chicken	Common	Neutral	Minion	Mech	1	0	1	At the start of your turn, destroy this minion and draw 3 cards.
+Homing Chicken	Common	Neutral	Minion	General	1	0	1	At the start of your turn, destroy this minion and draw 3 cards.
+Hungry Crab	Epic	Neutral	Minion	Beast	1	1	2	Battlecry: Destroy a Murloc and gain +2/+2.
+Hyena	Rare	Hunter	Minion	Beast	2	2	2	
+Ice Barrier	Common	Mage	Spell	General	3			Secret: As soon as your hero is attacked, gain 8 Armor.
+Ice Block	Epic	Mage	Spell	General	3			Secret: When your hero takes fatal damage, prevent it and become Immune this turn.
+Ice Lance	Common	Mage	Spell	General	1			Freeze a character. If it was already Frozen, deal 4 damage instead.
+Illidan Stormrage	Legendary	Neutral	Minion	Demon	6	7	5	Whenever you play a card, summon a 2/1 Flame of Azzinoth.
+Imp	Rare	Neutral	Minion	Demon	1	1	1	
+Imp Master	Rare	Neutral	Minion	General	3	1	5	At the end of your turn, deal 1 damage to this minion and Summon a 1/1 Imp.
+Infernal	Common	Warlock	Minion	Demon	6	6	6	
+Injured Blademaster	Rare	Neutral	Minion	General	3	4	7	Battlecry:Deal 4 damage to HIMSELF.
+Inner Fire	Common	Priest	Spell	General	1			Change a minions Attack to be equal to its Health.
+Inner Rage	Common	Warrior	Spell	General	0			Deal 1 damage to a minion and give it +2 Attack.
+Ironbark Protector	Free	Druid	Minion	General	8	8	8	Taunt
+Ironbeak Owl	Common	Neutral	Minion	Beast	2	2	1	Battlecry:Silence a minion.
+Ironforge Rifleman	Free	Neutral	Minion	General	3	2	2	Battlecry:Deal 1 damage.
+Jungle Panther	Common	Neutral	Minion	Beast	3	4	2	Stealth
+Keeper of the Grove	Rare	Druid	Minion	General	4	2	4	Choose One - Deal 2 damage; or Silence a minion.
+Kidnapper	Epic	Rogue	Minion	General	6	5	3	Combo: Return a minion to its owner's hand.
+Kill Command	Free	Hunter	Spell	General	3			Deal 3 damage. If you have a Beast, deal 5 damage instead.
+King Krush	Legendary	Hunter	Minion	Beast	9	8	8	Charge
+King Mukla	Legendary	Neutral	Minion	Beast	3	5	5	Battlecry: Give your opponent 2 Bananas
+Kirin Tor Mage	Rare	Mage	Minion	General	3	4	3	Batttlecry: The next Secret you play this turn costs (0).
+Knife Juggler	Rare	Neutral	Minion	General	2	3	2	After you summon a minion, deal 1 damage to a random enemy.
+Laughing Sister	Common	Neutral	Minion	General	3	3	5	Can't be targeted by Spells or Hero powers.
+Lava Burst	Rare	Shaman	Spell	General	3			Deal 5 damage. Overload: (2)
+Lay on Hands	Epic	Paladin	Spell	General	8			Restore 8 Health. Draw 3 cards.
+Leeroy Jenkins	Legendary	Neutral	Minion	General	5	6	2	Charge. Battlecry: Summon two 1/1 Whelps for your opponent.
+Legacy of the Emperor	Common	Neutral	Spell	General	3			Give your minions +2/+2.(+2 attack/+2 health}
+Leokk	Common	Hunter	Minion	Beast	3	2	4	Other friendly minions have 1 Attack.
+Leokk	Common	Hunter	Minion	Beast	3	2	4	Other friendly minions have +1 Attack.
+Leper Gnome	Common	Neutral	Minion	General	1	2	1	Deathrattle:Deal 2 damage to the enemy hero.
+Life Tap	Free	Warlock	Hero Power	General	2			Draw a card and take 2 damage.
+Light's Justice	Free	Paladin	Weapon	General	1	1	4	
+Lightning Bolt	Common	Shaman	Spell	General	1			Deal 3 damage. Overload: (1)
+Lightning Storm	Rare	Shaman	Spell	General	3			Deal 2-3 damage to all enemy minions. Overload: (2)
+Lightspawn	Common	Priest	Minion	General	4	0	5	This minion's Attack is always equal to its Health.
+Lightwarden	Rare	Neutral	Minion	General	1	1	2	Whenever a character is healed, gain +2 Attack.
+Lightwell	Rare	Priest	Minion	General	2	0	5	At the start of your turn, restore 3 Health to a damaged friendly character.
+Loot Hoarder	Common	Neutral	Minion	General	2	2	1	Deathrattle:Draw a card.
+Lord Jaraxxus	Legendary	Warlock	Minion	Demon	9	3	15	Battlecry: Destroy your hero and replace him with Lord Jaraxxus.
+Lord of the Arena	Free	Neutral	Minion	General	6	6	5	Taunt
+Lorewalker Cho (card)	Legendary	Neutral	Minion	General	2	0	4	Whenever a player casts a spell, put a copy into the other player's hand.
+Mad Bomber	Common	Neutral	Minion	General	2	3	2	Battlecry:Deal 3 damage randomly split between all other characters.
+Malygos	Legendary	Neutral	Minion	Dragon	9	4	12	Spell Damage +5.
+Mana Addict	Rare	Neutral	Minion	General	2	1	3	Whenever you cast a spell, gain +2 Attack this turn.
+Mana Spring Totem	Epic	Shaman	Minion	Totem	3			Your cards cost (1) less..
+Mana Tide Totem	Rare	Shaman	Minion	Totem	3	0	3	At the end of your turn, draw a card.
+Mana Wraith	Rare	Neutral	Minion	General	2	2	2	All minions cost (1) more.
+Mana Wyrm	Common	Mage	Minion	General	1	1	3	Whenever you cast a spell, gain +1 Attack.
+Mark of Nature	Common	Druid	Spell	General	3			Choose One - Give a minion +4 Attack; or +4 Health and Taunt.
+Mass Dispel	Rare	Priest	Spell	General	4			Silence all enemy minions. Draw a card.
+Massive Gnoll	Common	Neutral	Minion	General	4	5	2	
+Master of Disguise	Rare	Rogue	Minion	General	4	4	4	Battlecry: Give a friendly minion Stealth.
+Master Swordsmith	Rare	Neutral	Minion	General	2	1	3	At the end of your turn,give another random friendly minion +1 Attack.
+Mechanical Dragonling	Common	Neutral	Minion	Mech	1	2	1	
+Mechanical Dragonling	Common	Neutral	Minion	General	1	2	1	
+Millhouse Manastorm (card)	Legendary	Mage	Minion	General			20	
+Mind Control Tech	Rare	Neutral	Minion	General	3	3	3	Battlecry:If your opponent has 4 or more minions, take control of one of at random.
+Mindgames	Epic	Priest	Spell	General	4			Put a copy of a random minion from your opponent's deck into the battlefield.
+Mirror Entity	Common	Mage	Spell	General	3			Secret: When your opponent plays a minion, summon a copy of it.
+Mogu'shan Warden	Common	Neutral	Minion	General	4	1	7	Taunt
+Molten Giant	Epic	Neutral	Minion	General	20	8	8	Costs (1) less for each damage your hero has taken.
+Moonfire	Free	Druid	Spell	General	0			Deal 1 damage.
+Mortal Strike	Rare	Warrior	Spell	General	4			Deal 4 damage.If your hero has 12 or less Health, deal 6 damage instead.
+Mountain Giant	Epic	Neutral	Minion	General	12	8	8	Costs (1) less for each other card in your hand.
+Mukla's Big Brother	Common	Neutral	Minion	General	6	10	10	
+Murloc Tidecaller	Rare	Neutral	Minion	Murloc	1	1	2	Whenever a Murloc is summoned, gain +1 Attack.
+Murloc Warleader	Epic	Neutral	Minion	Murloc	3	3	3	ALL other Murlocs have +2/+1.
+Naga Myrmidon	Common	Neutral	Minion	General	1	1	1	
+Nat Pagle	Legendary	Neutral	Minion	General	2	0	4	At the end of your turn, you have a 50% chance to draw a card.
+Naturalize	Common	Druid	Spell	General	1			Destroy a minion. Your opponent draws 2 cards.
+Noble Sacrifice	Common	Paladin	Spell	General	1			Secret: When an enemy attacks, summon a 2/1 Defender as the new target.
+Nourish	Rare	Druid	Spell	General	5			Choose One - Gain 2 Mana Crystals; or Draw 3 cards.
+Nozdormu	Legendary	Neutral	Minion	Dragon	9	8	8	Players only have 15 seconds to take their turns.
+Onyxia	Legendary	Neutral	Minion	Dragon	9	8	8	Battlecry: Summon 1/1 Whelps until your side of the battlefield is full.
+Pandaren Scout	Common	Neutral	Minion	General	1	1	1	
+Panther	Common	Druid	Minion	Beast	2	3	2	
+Patient Assassin	Epic	Rogue	Minion	General	2	1	1	Stealth. Destroy any minion damaged by this minion.
+Penance	Common	Priest	Spell	General	3			Deal 3 damage. Restore 3 Health to your hero..
+Perdition's Blade	Rare	Rogue	Weapon	General	3	2	2	Battlecry: Deal 1 damage. Combo: Deal 2 damage instead.
+Pint-Sized Summoner	Rare	Neutral	Minion	General	2	2	2	The first minion you play each turn costs (1) less.
+Pit Lord	Epic	Warlock	Minion	Demon	4	5	6	Battlecry: Deal 5 damage to your hero.
+Poultryizer	Common	Neutral	Minion	Mech	1	0	3	At the start of your turn, transform a random minion into a 1/1 Chicken.
+Poultryizer	Common	Neutral	Minion	General	1	0	3	At the start of your turn, transform a random minion into a 1/1 Chicken.
+Power of the Wild	Common	Druid	Spell	General	2			Choose one - Give your minions +1/+1; or Summon a 3/2 Panther.
+Power Overwhelming	Common	Warlock	Spell	General	1			Give a friendly minion +4/+4 until the end of turn. Then, it dies. Horribly.
+Preparation	Epic	Rogue	Spell	General	0			The next spell you cast this turn costs (3) less.
+Priestess of Elune	Common	Neutral	Minion	General	6	5	4	Battlecry: Restore 4 Health to your hero.
+Prophet Velen	Legendary	Priest	Minion	General	7	7	7	Double the damage and healing of your spells and Hero Power.
+Pyroblast	Epic	Mage	Spell	General	10			Deal 10 damage.
+Questing Adventurer	Rare	Neutral	Minion	General	3	2	2	Whenever you play a card, gain +1/+1.
+Raging Worgen	Common	Neutral	Minion	General	3	3	3	Enrage: Windfury and +1 Attack
+Ragnaros the Firelord	Legendary	Neutral	Minion	General	8	8	8	Can't Attack. At the end of your turn, deal 8 damage to a random enemy.
+Rampage	Common	Warrior	Spell	General	2			Give a damaged minion +3/+3.
+Ravenholdt Assassin	Rare	Neutral	Minion	General	7	7	5	Stealth
+Redemption	Common	Paladin	Spell	General	1			Secret: When one of your minions dies, return it to life with 1 Health.
+Repentance	Common	Paladin	Spell	General	1			Secret: When your opponent plays a minion, reduce its Health to 1.
+Savagery	Rare	Druid	Spell	General	1			Deal damage equal to your hero's Attack to a minion.
+Savannah Highmane	Rare	Hunter	Minion	Beast	6	6	5	Deathrattle: Summon two 2/2 Hyenas.
+Scarlet Crusader	Common	Neutral	Minion	General	3	3	1	Divine Shield
+Scavenging Hyena	Common	Hunter	Minion	Beast	2	2	2	Whenever a friendly Beast dies, gain +2/+1.
+Sea Giant	Epic	Neutral	Minion	General	10	8	8	Costs (1) less for each other minion on the battlefield.
+Secretkeeper	Rare	Neutral	Minion	General	1	1	2	Whenever a Secret is played, gain +1/+1.
+Sense Demons	Common	Warlock	Spell	General	3			Put 2 random Demons from your deck into your hand.
+Shado-Pan Monk	Common	Neutral	Minion	General	2	2	2	
+Shadow Madness	Rare	Priest	Spell	General	4			Gain control of an enemy minion with 3 or less Attack until end of turn.
+Shadow of Nothing	Epic	Priest	Minion	General	0	0	1	
+Shadowflame	Rare	Warlock	Spell	General	4			Destroy a friendly minion and deal its Attack damage to all enemy minions.
+Shadowform	Epic	Priest	Spell	General	3			Your Hero Power becomes 'Deal 2 damage'. If already in Shadowform: 3 damage.
+Shadowstep	Common	Rogue	Spell	General	0			Return a friendly minion to your hand. It costs (2) less.
+Shan'do's Lesson	Common	Druid	Spell	General	0			Summon two 2/2 Treants with Taunt.
+Shield Block	Free	Warrior	Spell	General	3			Gain 5 Armor. Draw a card.
+Shield Slam	Epic	Warrior	Spell	General	1			Deal 1 damage to a minion for each Armor you have.
+Shieldbearer	Common	Neutral	Minion	General	1	0	4	Taunt
+SI:7 Agent	Rare	Rogue	Minion	General	3	3	3	Combo: Deal 2 damage.
+Silence	Common	Priest	Spell	General	0			Silence a minion.
+Silver Hand Knight	Common	Neutral	Minion	General	5	4	4	Battlecry:Summon a 2/2 Squire.
+Silverback Patriarch	Free	Neutral	Minion	Beast	3	1	4	Taunt.
+Silverback Patriarch	Free	Neutral	Minion	Beast	3	1	4	
+Silvermoon Guardian	Common	Neutral	Minion	General	4	3	3	Divine Sheild
+Siphon Soul	Rare	Warlock	Spell	General	6			Destroy a minion.Restore 3 Health to your hero.
+Skeleton	Common	Neutral	Minion	General	1	1	1	
+Slam	Common	Warrior	Spell	General	2			Deal 2 damage to a minion.If it survives, draw a card.
+Snake	Common	Hunter	Minion	Beast	0	1	1	
+Snake Trap	Epic	Hunter	Spell	General	2			Secret: When one of your minions is attacked, summon three 1/1 Snakes.
+Snipe	Common	Hunter	Spell	General	2			Secret: When your opponent plays a minion, deal 4 damage to it.
+Sorcerer's Apprentice	Common	Mage	Minion	General	2	3	2	Your spells cost (1) less.
+Soul of the Forest	Common	Druid	Spell	General	4			Give your minions "Deathrattle: Summon a 2/2 Treant."
+Southsea Captain	Epic	Neutral	Minion	Pirate	3	3	3	Your other Pirates have +1/+1.
+Spellbender	Epic	Mage	Spell	General	3			Secret: When an enemy casts a spell on a minion, summon a 1/3 as the new target.
+Spellbender (minion)	Epic	Mage	Minion	General	0	1	3	
+Spellbreaker	Common	Neutral	Minion	General	4	4	3	Battlecry:Silence a minion.
+Spirit Wolf	Rare	Shaman	Minion	General	2	2	3	Taunt.
+Spiteful Smith	Common	Neutral	Minion	General	5	4	6	Enrage: Your weapon has +2 attack.
+Sprint	Common	Rogue	Spell	General	7			Draw 4 cards.
+Sprint	Free	Rogue	Spell	General	7			Draw 4 cards.
+Squire	Common	Neutral	Minion	General	1	2	2	
+Squirrel	Common	Neutral	Minion	Beast	1	1	1	
+Stampeding Kodo	Rare	Neutral	Minion	Beast	5	3	5	Battlecry:Destroy a random enemy minion with 2 or less Attack.
+Starfall	Common	Druid	Spell	General	0			Deal 5 damage to a minion.
+Stomp	Common	Neutral	Spell	General	2			Deal 2 damage to all enemies.
+Stormforged Axe	Common	Shaman	Weapon	General	2	2	3	Overload: (1)
+Stormwind Knight	Common	Neutral	Minion	General	4	2	5	Charge
+Stormwind Knight	Free	Neutral	Minion	General	4	2	5	Charge
+Stranglethorn Tiger	Common	Neutral	Minion	Beast	5	5	5	Stealth.
+Summon a Panther	Common	Druid	Spell	General	0			Summon a 3/2 Panther.
+Summoning Portal	Common	Warlock	Minion	General	4	0	4	Your minions cost (2) less, but not less than (1).
+Sunfury Protector	Rare	Neutral	Minion	General	2	2	3	Battlecry:Give adjacent minions Taunt.
+Sunwalker	Rare	Neutral	Minion	General	6	4	5	Taunt. Divine Shield
+Sword of Justice	Epic	Paladin	Weapon	General	3	1	5	Whenever you summon a minion, give it +1/+1 and this loses 1 Durability.
+Sylvanas Windrunner	Legendary	Neutral	Minion	General	6	5	5	Deathrattle: Take control of a random enemy minion.
+Tauren Warrior	Common	Neutral	Minion	General	3	2	3	Taunt.Enrage:+ 3 Attack
+Temple Enforcer	Common	Priest	Minion	General	6	6	6	Battlecry: Give a friendly minion +3 Health.
+The Beast	Legendary	Neutral	Minion	Beast	6	9	7	Deathrattle:Summon a 3/3 Finkle Einhorn for your opponent.
+The Black Knight	Legendary	Neutral	Minion	General	6	4	5	Battlecry: Destroy an enemy minion with Taunt.
+Thoughtsteal	Common	Priest	Spell	General	3			Copy 2 cards from your opponent's deck and put them into your hand.
+Thrallmar Farseer	Common	Neutral	Minion	General	3	2	3	Windfury
+Tinkmaster Overspark	Legendary	Neutral	Minion	General	3	2	2	Battlecry: Transform a minion into a 5/5 Devilsaur or a 1/1 Squirrel at random.
+Tirion Fordring	Legendary	Paladin	Minion	General	8	6	6	Divine Shield. Taunt. Deathrattle: Equip a 5/3 Ashbringer.
+Treant (Force of Nature)	Common	Druid	Minion	General	1	2	2	Charge. At the end of this turn, destroy this minion.
+Truesilver Champion	Common	Paladin	Weapon	General	4	4	2	Whenever your hero attacks, restore 2 Health to it.
+Truesilver Champion	Free	Paladin	Weapon	General	4	4	2	Whenever your hero attacks, restore 2 Health to it.
+Tundra Rhino	Common	Hunter	Minion	Beast	5	2	5	Your other beasts have Charge.
+Tundra Rhino	Free	Hunter	Minion	Beast	5	2	5	Your Beasts have Charge.
+Twilight Drake	Rare	Neutral	Minion	Dragon	4	4	1	Battlecry: Gain +1 Health for each card in your hand.
+Twisting Nether	Epic	Warlock	Spell	General	8			Destroy all minions.
+Unbound Elemental	Common	Shaman	Minion	General	3	2	4	Whenever you play a card with Overload, gain +1/+1.
+Unleash the Hounds	Common	Hunter	Spell	General	3			For each enemy minion, summon a 1/1 Hound with Charge.
+Upgrade!	Rare	Warrior	Spell	General	1			If you have a weapon, give it +1/+1. Otherwise equip a 1/3 weapon.
+Uproot	Common	Druid	Spell	General	0			+5 Attack.
+Vaporize	Rare	Mage	Spell	General	3			Secret: When a minion attacks your hero, destroy it.
+Venture Co. Mercenary	Common	Neutral	Minion	General	5	7	6	Your minions cost (3) more.
+Violet Apprentice	Common	Neutral	Minion	General	0	1	1	
+Violet Teacher	Rare	Neutral	Minion	General	4	3	5	Whenever you cast a spell, summon a 1/1 Violet Apprentice.
+Void Terror	Rare	Warlock	Minion	Demon	3	3	3	Battlecry: Destroy the minions on either side of this minion and gain their Attack and Health.
+Warglaive of Azzinoth	Common	Neutral	Weapon	General	2	2	2	
+Whelp	Summon	Neutral	Minion	Dragon	1	1	1	
+Wild Pyromancer	Rare	Neutral	Minion	General	2	3	2	After you cast a spell, deal 1 damage to ALL minions.
+Windfury Harpy	Common	Neutral	Minion	General	6	4	5	Windfury
+Wisp	Common	Neutral	Minion	General	0	1	1	
+Worgen Infiltrator	Common	Neutral	Minion	General	1	2	1	Stealth
+Worthless Imp	Common	Warlock	Minion	Demon	1	1	1	
+Wrath	Common	Druid	Spell	General	0			Deal 1 damage to a minion. Draw a card.
+Young Dragonhawk	Common	Neutral	Minion	Beast	1	1	1	Windfury
+Young Priestess	Rare	Neutral	Minion	General	1	2	1	At the end of your turn, give another random friendly minion +1 health.
+Youthful Brewmaster	Common	Neutral	Minion	General	2	3	2	Battlecry: Return a friendly minion from the battlefield to your hand.
+Ysera	Legendary	Neutral	Minion	Dragon	9	4	12	At the end of your turn, draw a Dream Card.
+Ysera Awakens	Common	Neutral	Spell	General	2			Deal 5 damage to all characters except Ysera.
