@@ -1,0 +1,14 @@
+CREATE TABLE Carte(
+	NomeCarta VARCHAR NOT NULL,
+	CostoMana int NOT NULL,
+	Rarità VARCHAR NOT NULL
+
+	FOREIGN KEY(Rarità) REFERENCES (Rarità)
+)
+
+CREATE TABLE Rarità (
+	Rarità_ID int NOT NULL AUTO_INCREMENT
+	NomeRarità VARCHAR 
+
+	PRIMARY KEY(Rarità_ID)
+)
