@@ -425,7 +425,7 @@ CREATE TABLE `utente` (
 --
 
 INSERT INTO `utente` (`IDutente`, `Username`, `Password`, `DataRegistrazione`) VALUES
-(1, 'adminli', '12345', '2016-12-02 14:20:42'),
+(1, 'adminli', '12345', '2016-12-02 14:20:42');
 
 -- --------------------------------------------------------
 
