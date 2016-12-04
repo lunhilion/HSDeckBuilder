@@ -415,6 +415,7 @@ CREATE TABLE `mazzo` (
 
 CREATE TABLE `utente` (
   `IDutente` int(11) NOT NULL,
+  `admin` bit(1) NOT NULL DEFAULT b'0',
   `Username` varchar(20) COLLATE utf8_bin NOT NULL,
   `Password` varchar(20) COLLATE utf8_bin NOT NULL DEFAULT '12345',
   `DataRegistrazione` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP
