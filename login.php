@@ -2,13 +2,29 @@
   include("dbconnect.php");
   session_start();
 
-  if($_SERVER['REQUEST_METHOD'] == 'POST'){
-    $userLog = $_POST['userLog'];
-    $pwdLog = $_POST['pwdLog'];
 
-    $query = "SELECT username,password FROM users WHERE username='".$userLog."'AND password='".$pwdLog."';";
-    $rows = mysqli_query($conn_db, $query);
-    $numRows = mysqli_num_rows($rows);
+  if(isset($_SESSION['logged_arrayInfo'])){
+    header('location: index.php');
+  } else {
+    if($_SERVER['REQUEST_METHOD'] == 'POST'){
+      $userLog = $_POST['userLog'];
+      $pwdLog = $_POST['pwdLog'];
+
+      $query = "SELECT Username,Nome,Cognome,Password FROM utente WHERE Username='".$userLog."'AND Password='".$pwdLog."';";
+      $result = mysqli_query($conn_db, $query);
+      $numRows = mysqli_num_rows($result);
+
+      if(!empty($numRows)){
+        $_SESSION['logged_arrayInfo'] = mysqli_fetch_row($result);
+        if(isset($_GET['redirect'])){
+          header('location: '.$_GET['redirect']);
+        } else {
+        header('location: index.php');
+        }
+      } else {
+        $errUserNotFound = 1;
+      }
+    }
   }
 ?>
 <!DOCTYPE html>
@@ -22,14 +38,9 @@
     <script src="js/bootstrap.min.js"></script>
   </head>
   <body>
-  	<nav class="navbar navbar-default">
-  		<div class="container">
-  			<div class="navbar-header">
-  				<a class="navbar-brand" href="#">HSDeckBuilder</a>
-  			</div>
-  		</div>
-  	</nav>
-
+  <?php
+    include("header.php");
+  ?>
   	<div class="container">
 
   		<div class="col-md-offset-4 col-md-4">
@@ -49,20 +60,12 @@
   				</div>
   			</form>
                 <?php
-        if($_SERVER['REQUEST_METHOD'] == 'POST'){
-            if(!empty($numRows)){
-                echo '
-                  <p><div class="alert alert-success text-center">
-                    Account <strong>'.$userLog.'</strong> presente!
-                  </div></p>';
-            } 
-            else {
+        if(isset($errUserNotFound)){
               echo '
                 <p><div class="alert alert-danger text-center">
-                    Account <strong>'.$userLog.'</strong> non presente!
+                    Username o Password errati
                   </div></p>
                   ';
-            }
         }
       ?>
   	  </div>

@@ -2,7 +2,7 @@
 	$server_db = "localhost";
 	$user_db = "root";
 	$pwd_db = "";
-	$sel_db = "hs_db";
+	$sel_db = "progettobasi";
 
 	$conn_db = mysqli_connect($server_db,$user_db,$pwd_db,$sel_db);
 	
